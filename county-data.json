@@ -1,0 +1,162 @@
+{
+  "contae_an_chabháin": {
+    "name_ga": "Cabhán",
+    "name_en": "County Cavan",
+    "groups": []
+  },
+  "contae_an_chláir": {
+    "name_ga": "Clár",
+    "name_en": "County Clare",
+    "groups": []
+  },
+  "contae_an_dún": {
+    "name_ga": "Dún",
+    "name_en": "County Down",
+    "groups": []
+  },
+  "contae_an_longfoirt": {
+    "name_ga": "Longfort",
+    "name_en": "County Longford",
+    "groups": []
+  },
+  "contae_aontroma": {
+    "name_ga": "Aontroim",
+    "name_en": "County Antrim",
+    "groups": []
+  },
+  "contae_ard_mhacha": {
+    "name_ga": "Ard Mhacha",
+    "name_en": "County Armagh",
+    "groups": []
+  },
+  "contae_cheatharlach": {
+    "name_ga": "Ceatharlach",
+    "name_en": "County Carlow",
+    "groups": []
+  },
+  "contae_chiarraí": {
+    "name_ga": "Ciarraí",
+    "name_en": "County Kerry",
+    "groups": []
+  },
+  "contae_chill_chainnigh": {
+    "name_ga": "Cill Chainnigh",
+    "name_en": "County Kilkenny",
+    "groups": []
+  },
+  "contae_chill_dara": {
+    "name_ga": "Cill Dara",
+    "name_en": "County Kildare",
+    "groups": []
+  },
+  "contae_chill_mhantáin": {
+    "name_ga": "Cill Mhantáin",
+    "name_en": "County Wicklow",
+    "groups": []
+  },
+  "contae_chorcaigh": {
+    "name_ga": "Corcaigh",
+    "name_en": "County Cork",
+    "groups": []
+  },
+  "contae_dhoire": {
+    "name_ga": "Doire",
+    "name_en": "County Derry",
+    "groups": []
+  },
+  "contae_dhún_na_ngall": {
+    "name_ga": "Dún na nGall",
+    "name_en": "County Donegal",
+    "groups": []
+  },
+  "contae_fhear_manach": {
+    "name_ga": "Fear Manach",
+    "name_en": "County Fermanagh",
+    "groups": []
+  },
+  "contae_laoise": {
+    "name_ga": "Laois",
+    "name_en": "County Laois",
+    "groups": []
+  },
+  "contae_liatroma": {
+    "name_ga": "Liatroim",
+    "name_en": "County Leitrim",
+    "groups": []
+  },
+  "contae_loch_garman": {
+    "name_ga": "Loch Garman",
+    "name_en": "County Wexford",
+    "groups": []
+  },
+  "contae_luimnigh": {
+    "name_ga": "Luimneach",
+    "name_en": "County Limerick",
+    "groups": []
+  },
+  "contae_lú": {
+    "name_ga": "Lú",
+    "name_en": "County Louth",
+    "groups": []
+  },
+  "contae_mhaigh_eo": {
+    "name_ga": "Maigh Eo",
+    "name_en": "County Mayo",
+    "groups": []
+  },
+  "contae_mhuineacháin": {
+    "name_ga": "Muineachán",
+    "name_en": "County Monaghan",
+    "groups": []
+  },
+  "contae_na_gaillimhe": {
+    "name_ga": "Gaillimh",
+    "name_en": "County Galway",
+    "groups": []
+  },
+  "contae_na_hiarmhí": {
+    "name_ga": "Iarmhí",
+    "name_en": "County Westmeath",
+    "groups": []
+  },
+  "contae_na_mí": {
+    "name_ga": "Mí",
+    "name_en": "County Meath",
+    "groups": []
+  },
+  "contae_phort_láirge": {
+    "name_ga": "Port Láirge",
+    "name_en": "County Waterford",
+    "groups": []
+  },
+  "contae_ros_comáin": {
+    "name_ga": "Ros Comáin",
+    "name_en": "County Roscommon",
+    "groups": []
+  },
+  "contae_shligigh": {
+    "name_ga": "Sligeach",
+    "name_en": "County Sligo",
+    "groups": []
+  },
+  "contae_thiobraid_árann": {
+    "name_ga": "Tiobraid Árann",
+    "name_en": "County Tipperary",
+    "groups": []
+  },
+  "contae_thír_eoghain": {
+    "name_ga": "Tír Eoghain",
+    "name_en": "County Tyrone",
+    "groups": []
+  },
+  "contae_uíbh_fhailí": {
+    "name_ga": "Uíbh Fhailí",
+    "name_en": "County Offaly",
+    "groups": []
+  },
+  "contae_átha_cliath": {
+    "name_ga": "Áth Cliath",
+    "name_en": "County Dublin",
+    "groups": []
+  }
+}
