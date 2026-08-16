@@ -1,4 +1,12 @@
 {
+  "papers": [
+    {
+      "title": "The Projected Public Finances of the Early Years of a United Ireland",
+      "author": "All-Island Economy (DCU & Ulster University)",
+      "date": "2025",
+      "url": "https://all-islandeconomy.com/wp-content/uploads/2025/06/21614_Public_Finances_UPDATED.pdf"
+    }
+  ],
   "contae_an_chabháin": {
     "name_ga": "Cabhán",
     "name_en": "County Cavan",
@@ -157,6 +165,12 @@
   "contae_átha_cliath": {
     "name_ga": "Áth Cliath",
     "name_en": "County Dublin",
-    "groups": []
+    "groups": [
+      {
+        "name": "South Dublin County Council",
+        "note": "Voted in favour of calling on the Government to plan for a United Ireland and for a border poll on Irish unification (October 2019).",
+        "url": "https://www.dublinlive.ie/news/dublin-news/south-dublin-county-council-votes-17088055"
+      }
+    ]
   }
 }

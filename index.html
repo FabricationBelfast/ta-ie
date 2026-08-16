@@ -149,23 +149,148 @@
   }
 
   .group-item {
-    padding: 10px 0;
-    border-bottom: 1px solid #f0eadb;
+    margin: 0 0 10px;
+    padding: 12px 14px;
+    border: 1px solid #e5decf;
+    border-radius: 10px;
+    background: #fbf8f1;
   }
 
   .group-item:last-child {
-    border-bottom: none;
+    margin-bottom: 0;
   }
 
   .group-item strong {
+    display: block;
     font-size: 14.5px;
+    line-height: 1.3;
   }
 
   .group-note {
-    margin: 3px 0 0;
+    margin: 4px 0 0;
     font-size: 13px;
     color: #6f6757;
     line-height: 1.45;
+  }
+
+  .group-link {
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #174a2e;
+    text-decoration: none;
+    border-bottom: 1px solid #9ab894;
+  }
+
+  .group-link:hover {
+    color: #0f331f;
+    border-bottom-color: #174a2e;
+  }
+
+  #add-link {
+    position: fixed;
+    left: 14px;
+    bottom: 14px;
+    z-index: 5;
+    padding: 9px 14px;
+    background: #174a2e;
+    color: #f7f4ee;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 999px;
+    box-shadow: 0 2px 8px rgba(23, 74, 46, 0.35);
+    transition: background 0.15s ease, transform 0.15s ease;
+  }
+
+  #add-link:hover {
+    background: #123c25;
+    transform: translateY(-1px);
+  }
+
+  #papers-widget {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    z-index: 5;
+    width: 260px;
+    max-width: calc(100vw - 28px);
+    max-height: 46vh;
+    background: #fffdf7;
+    border: 1px solid #e5decf;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(90, 75, 40, 0.12);
+    padding: 14px 14px 12px;
+    overflow-y: auto;
+  }
+
+  #papers-widget h2 {
+    margin: 0 0 10px;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    line-height: 1.3;
+    color: #174a2e;
+    border-bottom: 1px solid #ece5d6;
+    padding-bottom: 8px;
+  }
+
+  .paper-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .paper-item {
+    margin: 0 0 8px;
+  }
+
+  .paper-item:last-child {
+    margin-bottom: 0;
+  }
+
+  .paper-item a {
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.35;
+    color: #2d2a24;
+    text-decoration: none;
+  }
+
+  .paper-item a:hover {
+    color: #174a2e;
+    text-decoration: underline;
+  }
+
+  .paper-meta {
+    margin: 3px 0 0;
+    font-size: 11.5px;
+    color: #8a806c;
+  }
+
+  .paper-empty {
+    margin: 0;
+    font-size: 13px;
+    font-style: italic;
+    color: #8a806c;
+  }
+
+  @media (max-width: 640px) {
+    #info {
+      left: 0;
+      right: 0;
+      top: auto;
+      bottom: 0;
+      width: 100%;
+      max-height: 70vh;
+      border-left: none;
+      border-top: 1px solid #e5decf;
+      box-shadow: 0 -6px 14px rgba(90, 75, 40, 0.12);
+      transform: translateY(105%);
+    }
   }
 
   .county {
@@ -177,6 +302,8 @@
     transition: transform 0.15s ease, filter 0.15s ease, fill 0.15s ease;
     transform-box: fill-box;
     transform-origin: center;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
   }
 
   .county.selected {
@@ -185,17 +312,21 @@
     filter: drop-shadow(0 3px 4px rgba(0, 0, 0, 0.28));
   }
 
-  .county.active {
-    transform: scale(1.05);
-    filter: drop-shadow(0 4px 7px rgba(0, 0, 0, 0.3));
+  @media (hover: hover) {
+    .county.active {
+      transform: scale(1.05);
+      filter: drop-shadow(0 4px 7px rgba(0, 0, 0, 0.3));
+    }
   }
 
   #map-layer {
     transition: transform 0.28s ease;
   }
 
-  body.show-panel #map-layer {
-    transform: translateX(-170px);
+  @media (min-width: 641px) {
+    body.show-panel #map-layer {
+      transform: translateX(-170px);
+    }
   }
 
   #tooltip {
@@ -224,10 +355,16 @@
 <main>
   <div id="map">
     <svg id="ireland" role="img" aria-label="Léarscáil de chontaetha na hÉireann"></svg>
+    <div id="papers-widget">
+      <h2>The Economics of a united Ireland</h2>
+      <ul class="paper-list" id="paper-list"></ul>
+    </div>
     <div id="map-error"></div>
   </div>
   <aside id="info" aria-live="polite"></aside>
 </main>
+
+<a id="add-link" href="mailto:info@fabricationbelfast.com?subject=Add%20group%2Findividual">Add group/individual</a>
 
 <div id="tooltip" role="tooltip"></div>
 
@@ -240,6 +377,7 @@
   var infoEl = document.getElementById('info');
   var tooltipEl = document.getElementById('tooltip');
   var errorEl = document.getElementById('map-error');
+  var paperListEl = document.getElementById('paper-list');
   var bodyEl = document.body;
 
   var stats = null;
@@ -303,10 +441,37 @@
       .replace(/'/g, '&#39;');
   }
 
+  function isSafeUrl(value) {
+    return typeof value === 'string' && /^https?:\/\//i.test(value);
+  }
+
   function showError(message) {
     svg.style('display', 'none');
     errorEl.style.display = 'flex';
     errorEl.innerHTML = '<p>' + escapeHtml(message) + '</p>';
+  }
+
+  function renderPapers(papers) {
+    if (!papers || papers.length === 0) {
+      paperListEl.innerHTML = '<li class="paper-empty">Níl aon pháipéar curtha leis fós.</li>';
+      return;
+    }
+    var html = '';
+    papers.forEach(function (p) {
+      html += '<li class="paper-item">';
+      if (isSafeUrl(p.url)) {
+        html += '<a href="' + escapeHtml(p.url) + '" target="_blank" rel="noopener">' +
+          escapeHtml(p.title) + '</a>';
+      } else {
+        html += '<a>' + escapeHtml(p.title) + '</a>';
+      }
+      var meta = [];
+      if (p.author) meta.push(p.author);
+      if (p.date) meta.push(p.date);
+      if (meta.length) html += '<p class="paper-meta">' + escapeHtml(meta.join(' · ')) + '</p>';
+      html += '</li>';
+    });
+    paperListEl.innerHTML = html;
   }
 
   function fitAndDraw() {
@@ -329,18 +494,23 @@
 
     mapLayer = svg.append('g').attr('id', 'map-layer');
 
-    mapLayer.selectAll('path.county')
+    var counties = mapLayer.selectAll('path.county')
       .data(geojson.features)
       .join('path')
       .attr('class', 'county')
       .attr('data-county', function (d) { return countyDisplay(d.properties); })
       .attr('data-key', function (d) { return countyKey(d.properties); })
       .attr('aria-label', function (d) { return countyDisplay(d.properties); })
-      .style('--fill', function (d, i) { return tints[i % tints.length]; })
-      .on('pointerenter', hoverIn)
-      .on('pointermove', tooltipMove)
-      .on('pointerleave', hoverOut)
-      .on('click', countyClick);
+      .style('--fill', function (d, i) { return tints[i % tints.length]; });
+
+    counties.on('click', countyClick);
+
+    if (window.matchMedia('(hover: hover)').matches) {
+      counties
+        .on('pointerenter', hoverIn)
+        .on('pointermove', tooltipMove)
+        .on('pointerleave', hoverOut);
+    }
 
     svg.on('click', function () { clearSelection(); });
 
@@ -416,6 +586,10 @@
       groups.forEach(function (g) {
         html += '<li class="group-item"><strong>' + escapeHtml(g.name) + '</strong>';
         if (g.note) html += '<p class="group-note">' + escapeHtml(g.note) + '</p>';
+        if (isSafeUrl(g.url)) {
+          html += '<a class="group-link" href="' + escapeHtml(g.url) +
+            '" target="_blank" rel="noopener">Foinse</a>';
+        }
         html += '</li>';
       });
       html += '</ul>';
@@ -459,6 +633,7 @@
     geojson = results[0];
     stats = results[1] || {};
     renderMap();
+    renderPapers(stats.papers);
     console.log('Ireland map loaded:', geojson.features.length, 'counties;',
       Object.keys(stats).length, 'data entries');
   }).catch(function (err) {
