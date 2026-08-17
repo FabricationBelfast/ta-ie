@@ -209,6 +209,57 @@
     transform: translateY(-1px);
   }
 
+  #globe-btn {
+    position: fixed;
+    right: 14px;
+    bottom: 14px;
+    z-index: 20;
+    width: 38px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    background: #174a2e;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(23, 74, 46, 0.35);
+    transition: background 0.15s ease, transform 0.15s ease;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  #globe-btn:hover {
+    background: #123c25;
+    transform: translateY(-1px);
+  }
+
+  #globe-btn:focus-visible {
+    outline: 2px solid #9ab894;
+    outline-offset: 2px;
+  }
+
+  #globe-btn svg {
+    width: 22px;
+    height: 22px;
+  }
+
+  #globe-spin {
+    animation: globe-spin 6s linear infinite;
+    transform-box: fill-box;
+    transform-origin: center;
+  }
+
+  @keyframes globe-spin {
+    to { transform: rotate(-360deg); }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    #globe-spin {
+      animation: none;
+    }
+  }
+
   #papers-widget {
     position: absolute;
     top: 14px;
@@ -365,6 +416,33 @@
 </main>
 
 <a id="add-link" href="mailto:info@fabricationbelfast.com?subject=Add%20group%2Findividual">Add group/individual</a>
+
+<button id="globe-btn" type="button" aria-label="Idirnáisiúnta — international endorsements">
+  <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <defs>
+      <radialGradient id="globe-ocean" cx="35%" cy="32%" r="78%">
+        <stop offset="0%" stop-color="#8fd2ec"/>
+        <stop offset="100%" stop-color="#2f7fae"/>
+      </radialGradient>
+      <clipPath id="globe-clip">
+        <circle cx="12" cy="12" r="8.6"/>
+      </clipPath>
+    </defs>
+    <circle cx="12" cy="12" r="9" fill="url(#globe-ocean)"/>
+    <g clip-path="url(#globe-clip)">
+      <g id="globe-spin">
+        <path d="M4.1 4.4 C5.3 3.4 8.0 3.3 9.3 4.2 C10.2 4.8 10.3 5.9 10.6 6.9 C10.9 7.9 10.7 9.0 11.0 10.0 C11.3 11.0 11.2 12.1 10.9 13.1 C10.6 14.0 10.0 14.8 9.6 15.7 C9.3 16.4 8.9 17.2 8.3 17.7 C7.6 18.4 6.7 18.5 5.9 18.1 C5.2 17.7 4.9 17.0 4.6 16.3 C4.3 15.5 4.0 14.8 3.9 13.9 C3.8 13.1 3.7 12.3 3.8 11.5 C3.9 10.7 3.9 9.9 4.0 9.1 C4.1 8.3 3.9 7.5 4.1 6.7 C4.2 5.9 4.1 5.1 4.1 4.4 Z" fill="#6fa75a"/>
+        <path d="M5.0 3.3 C5.7 3.0 6.6 3.2 6.8 3.8 C7.0 4.4 6.6 5.0 5.9 5.0 C5.3 5.0 4.8 4.3 5.0 3.3 Z" fill="#6fa75a"/>
+        <path d="M10.7 4.2 C11.1 3.9 11.6 4.1 11.6 4.5 C11.7 4.9 11.4 5.3 10.9 5.3 C10.6 5.3 10.4 4.7 10.7 4.2 Z" fill="#6fa75a"/>
+        <path d="M12.1 3.6 C12.6 3.4 13.1 3.8 13.0 4.3 C13.0 4.9 13.6 5.3 13.5 5.9 C13.4 6.6 12.8 7.0 12.3 6.7 C11.8 6.3 11.8 5.4 12.0 4.8 C12.1 4.4 11.8 4.0 12.1 3.6 Z" fill="#6fa75a"/>
+        <path d="M13.3 4.1 C14.4 3.7 15.8 3.9 16.5 4.6 C17.1 5.3 17.1 6.3 16.8 7.1 C16.5 7.9 15.8 8.5 15.0 8.3 C14.2 8.1 13.6 7.5 13.3 6.8 C13.0 6.1 12.9 5.3 13.1 4.7 C13.2 4.4 13.2 4.3 13.3 4.1 Z" fill="#6fa75a"/>
+        <path d="M13.6 8.6 C14.9 8.2 16.3 8.8 16.9 9.9 C17.5 11.0 18.2 12.2 18.1 13.5 C18.0 14.8 18.1 16.1 17.4 17.2 C16.7 18.3 15.5 18.9 14.5 18.3 C13.5 17.7 13.5 16.6 13.2 15.6 C12.9 14.6 12.7 13.5 12.9 12.4 C13.0 11.4 12.8 10.2 13.1 9.3 C13.3 8.9 13.4 8.8 13.6 8.6 Z" fill="#6fa75a"/>
+      </g>
+    </g>
+    <circle cx="12" cy="12" r="9" fill="none" stroke="#1a5f8a" stroke-width="1.2"/>
+    <ellipse cx="7.6" cy="5.8" rx="4.6" ry="3" fill="rgba(255,255,255,0.35)" transform="rotate(-40 7.6 5.8)"/>
+  </svg>
+</button>
 
 <div id="tooltip" role="tooltip"></div>
 
@@ -554,6 +632,7 @@
   }
 
   function selectCounty(key, props, entry) {
+    internationalOpen = false;
     mapLayer.selectAll('path.county').classed('selected', false);
 
     var selected = mapLayer.selectAll('path.county')
@@ -609,10 +688,28 @@
   }
 
   function clearSelection() {
+    internationalOpen = false;
     mapLayer.selectAll('path.county').classed('selected', false);
     infoEl.innerHTML = '';
     hidePanel();
   }
+
+  var internationalOpen = false;
+  var globeBtn = document.getElementById('globe-btn');
+
+  function showInternational() {
+    if (internationalOpen) {
+      clearSelection();
+      return;
+    }
+    if (!stats || !stats.idirnáisiúnta) return;
+    internationalOpen = true;
+    if (mapLayer) mapLayer.selectAll('path.county').classed('selected', false);
+    renderPanel({}, stats.idirnáisiúnta);
+    showPanel();
+  }
+
+  globeBtn.addEventListener('click', showInternational);
 
   document.addEventListener('keydown', function (event) {
     if (event.key === 'Escape') clearSelection();
