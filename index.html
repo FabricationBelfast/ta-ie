@@ -244,15 +244,21 @@
     height: 22px;
   }
 
-  #globe-spin {
+#globe-spin {
     animation: globe-spin 6s linear infinite;
     transform-box: fill-box;
     transform-origin: center;
-  }
+    transition: transform 0.1s ease-out;
+}
 
-  @keyframes globe-spin {
-    to { transform: rotate(-360deg); }
-  }
+@keyframes globe-spin {
+    to { transform: rotate(360deg); }
+}
+
+/* Subtle shadow to enhance 3D appearance */
+#globe-spin {
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
+}
 
   @media (prefers-reduced-motion: reduce) {
     #globe-spin {

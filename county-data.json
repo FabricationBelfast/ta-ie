@@ -10,17 +10,140 @@
   "contae_an_chabháin": {
     "name_ga": "Cabhán",
     "name_en": "County Cavan",
-    "groups": []
+    "groups": [
+      {
+        "name": "Cavan County Council",
+        "note": "Motion \"Ag impí ar Rialtas na hÉireann chun pleanáil i dtreo Éire Aontaithe / To call on the Irish Government to plan and prepare for Irish unity\" tabled by Cllr Stiofán Conaty at the 14 July 2025 meeting (item 13.15), supported by Cllrs Damien Brady (SF) and Adrian Rogers (Aontú); local radio later reported Cavan as \"among the first\" councils to make the move. Minutes record the debate without a division.",
+        "url": "https://www.cavancoco.ie/media/4n1hudve/01minutes-of-council-meeting-14th-july-2025.pdf"
+      },
+      {
+        "name": "Stiofán Conaty",
+        "note": "Sinn Féin councillor: partition \"has failed the people of Ireland, north and south\"; urged TDs to pass Sinn Féin's Irish Unity Bill, noting Cavan County Council was among the first to call on the Government to begin plans and preparations (2026).",
+        "url": "https://www.northernsound.ie/news/local-councillor-calls-for-irish-unity-bill-to-be-passed-285839"
+      },
+      {
+        "name": "Pauline Tully",
+        "note": "Sinn Féin Senator (from near Kilnaleck): \"Irish unity is inevitable and we will not be deterred by delay tactics or evasive manoeuvrings. Real discussions and preparations need to begin now\" (2025).",
+        "url": "https://www.anglocelt.ie/2025/12/30/go-mbeirimid-beo-ar-an-am-seo-aris/"
+      },
+      {
+        "name": "Councillor Damien Brady",
+        "note": "Supported Conaty's 14 July 2025 motion calling on the Irish Government to plan and prepare for Irish unity; Brady said \"this is a conversation that must be heard loud and clear\".",
+        "url": "https://www.cavancoco.ie/media/4n1hudve/01minutes-of-council-meeting-14th-july-2025.pdf"
+      },
+      {
+        "name": "Councillor Adrian Rogers",
+        "note": "Supported Conaty's 14 July 2025 motion calling on the Irish Government to plan and prepare for Irish unity.",
+        "url": "https://www.cavancoco.ie/media/4n1hudve/01minutes-of-council-meeting-14th-july-2025.pdf"
+      }
+    ]
   },
   "contae_an_chláir": {
     "name_ga": "Clár",
     "name_en": "County Clare",
-    "groups": []
+    "groups": [
+      {
+        "name": "Sharon Shannon",
+        "note": "Signatory of the 2019 Ireland's Future open letter to Leo Varadkar calling for a new, united Ireland.",
+        "url": "https://www.bbc.com/news/uk-northern-ireland-50295291"
+      },
+      {
+        "name": "Cathal Crowe",
+        "note": "Proposed a 2016 Clare County Council motion calling on the British Government to facilitate a border poll and on the Irish Government to provide for a referendum on Irish unification; \"Where Clare leads Ireland will follow\" (motion defeated — his individual endorsement stands).",
+        "url": "https://clareherald.com/news/clare-councillor-says-ireland-should-leave-the-eu/"
+      },
+      {
+        "name": "Mike McKee",
+        "note": "Sinn Féin councillor: backed Crowe's 2016 motion, saying \"Irish unity is economically viable.\"",
+        "url": "https://clareherald.com/news/clare-councillor-says-ireland-should-leave-the-eu/"
+      },
+      {
+        "name": "PJ Kelly",
+        "note": "Councillor: backed the 2016 border-poll motion, invoking the German reunification experience.",
+        "url": "https://clareherald.com/news/clare-councillor-says-ireland-should-leave-the-eu/"
+      },
+      {
+        "name": "Timmy Dooley",
+        "note": "Fianna Fáil TD: \"I absolutely want to see a united Ireland\" (2016 TD survey on a border poll and reunification).",
+        "url": "http://cdn.thejournal.ie/media/2016/12/thejournal-ie-td-survey-on-irish-unity-results-december-2016-sheet1.pdf"
+      },
+      {
+        "name": "Donna McGettigan",
+        "note": "Sinn Féin councillor (Now TD): proposed a 2021 motion that Clare County Council call on the British Government to set a date for an Irish unity referendum and on the Irish Government to work towards it (motion rejected as \"ill-timed\" — her endorsement stands).",
+        "url": "https://clareecho.ie/ill-timed-clare-councillors-reject-call-for-british-govt-to-hold-united-ireland-referendum/"
+      },
+      {
+        "name": "Sinn Féin 'Towards a United Ireland' public meeting (Ennistymon)",
+        "note": "2017 public meeting at the Falls Hotel, Ennistymon to build support for a unity referendum and begin laying the groundwork for a united Ireland.",
+        "url": "https://clareherald.com/news/ennistymon-to-host-meeting-on-creating-a-united-ireland/"
+      },
+      {
+        "name": "Tomás Mac Conmara",
+        "note": "Clare historian: featured speaker on partition at the Sinn Féin \"Towards a United Ireland\" meeting, Ennistymon (2017).",
+        "url": "https://clareherald.com/news/ennistymon-to-host-meeting-on-creating-a-united-ireland/"
+      },
+      {
+        "name": "Eoin Neylon",
+        "note": "The Clare Echo journalist: argued Fianna Fáil should lead with \"a concrete plan to deliver an inclusive United Ireland\"; \"a 32-county state is a viable goal\" (2021).",
+        "url": "https://clareecho.ie/eoin-neylon-concrete-plan-for-delivery-of-inclusive-united-ireland-can-reignite-fianna-fail/"
+      }
+    ]
   },
   "contae_an_dún": {
     "name_ga": "Dún",
     "name_en": "County Down",
-    "groups": []
+    "groups": [
+      {
+        "name": "Jamie Dornan",
+        "note": "\"I'm very open-minded to the idea of it\" — on a united Ireland (2023).",
+        "url": "https://www.independent.ie/entertainment/im-very-open-minded-to-the-idea-of-a-united-ireland-jamie-dornan-chats-about-filming-latest-season-of-the-tourist-at-home/a1755551682.html"
+      },
+      {
+        "name": "Ciara Mageean",
+        "note": "\"Would love\" a United Ireland",
+        "url": "https://www.thesun.ie/sport/6514416/ciara-mageean-united-ireland-referendum-peaceful/"
+      },
+      {
+        "name": "Yes for Unity",
+        "note": "Campaign for an Irish unity referendum placing a \"Socialist Republic\" at its centre; established by Irish republican socialists in Newry (founded 6 May 2017).",
+        "url": "https://yesforunity.ie/"
+      },
+      {
+        "name": "Chris Hazzard",
+        "note": "Sinn Féin MP for South Down; accused Leo Varadkar of \"flip-flopping\" on Irish unity, calling it \"farcical\" to claim it was too early to begin referendum preparations (2022).",
+        "url": "https://m.belfasttelegraph.co.uk/news/northern-ireland/sinn-fein-mp-chris-hazzard-accuses-leo-varadkar-of-flip-flopping-on-irish-unity-issue/41811510.html"
+      },
+      {
+        "name": "Claire Hanna",
+        "note": "SDLP leader: \"We believe, in time, that a New Ireland will best make that ambition real\" (2024 conference speech).",
+        "url": "https://www.irishtimes.com/politics/2024/10/05/new-united-ireland-will-create-a-fairer-more-prosperous-society-claire-hanna-tells-sdlp-conference/"
+      },
+      {
+        "name": "Newry, Mourne and Down District Council",
+        "note": "Passed a motion (16 March 2022) establishing an Irish-unity working group.",
+        "url": "https://www.belfastlive.co.uk/news/northern-ireland/united-ireland-subject-council-working-23436194"
+      },
+      {
+        "name": "Mickey Brady",
+        "note": "Former Sinn Féin MP for Newry and Armagh (from Downpatrick): urged the Irish Government to \"step up preparations for Irish unity\" (2021).",
+        "url": "https://www.sinnfein.ie/news/irish-government-must-step-up-preparations-for-unity-brady/"
+      },
+      {
+        "name": "Dáire Hughes",
+        "note": "Sinn Féin MP for Newry and Armagh: \"preparations for a referendum on Irish unity must now begin without delay\" (2025).",
+        "url": "https://www.sinnfein.ie/news/irish-government-must-now-begin-planning-and-preparations-for-irish-unity-hughes/"
+      },
+      {
+        "name": "Margaret Ritchie",
+        "note": "Former SDLP leader: \"We in the SDLP remain absolutely, unambiguously committed to a United Ireland… It is, without qualification, our number one political objective\" (2010).",
+        "url": "https://cain.ulster.ac.uk/issues/politics/docs/sdlp/mr061110.htm"
+      },
+      {
+        "name": "Colin McGrath",
+        "note": "SDLP MLA for South Down (born Downpatrick): \"We too as a nationalist party also want a united Ireland\".",
+        "url": "https://sdlp.ie/colin_mcgrath"
+      }
+    ]
   },
   "contae_an_longfoirt": {
     "name_ga": "Longfort",
@@ -30,12 +153,109 @@
   "contae_aontroma": {
     "name_ga": "Aontroim",
     "name_en": "County Antrim",
-    "groups": []
+    "groups": [
+      {
+        "name": "Liam Neeson",
+        "note": "\"I think it will happen\" — says Ireland will be united in his lifetime (2023).",
+        "url": "https://news.sky.com/story/i-think-it-will-happen-liam-neeson-says-ireland-will-be-united-during-his-lifetime-12835613"
+      },
+      {
+        "name": "Michael Conlan",
+        "note": "Signed open letter to Varadkar seeking protection of Irish national identity in the North (2017).",
+        "url": "https://www.thejournal.ie/northern-ireland-letter-taoiseach-brexit-3743186-Dec2017/"
+      },
+      {
+        "name": "Kneecap",
+        "note": "\"Stridently pro-united Ireland\"; lyrics and activism celebrate Irish unity (2024).",
+        "url": "https://inews.co.uk/culture/music/kneecap-on-being-irish-british-rule-and-taking-kemi-badenoch-to-court-3236154"
+      },
+      {
+        "name": "SDLP (Social Democratic and Labour Party)",
+        "note": "\"100% for a United Ireland\"; established the New Ireland Commission (2021) to build consensus on a new Ireland.",
+        "url": "https://www.sdlp.ie/new_ireland_commission"
+      },
+      {
+        "name": "Irish Republican Socialist Party (IRSP)",
+        "note": "Aims for a 32-County Socialist Republic; \"support calls for a Border Poll on Irish Unity as a mechanism to end partition and support the YesForUnity campaign\".",
+        "url": "https://irsp.ie/"
+      },
+      {
+        "name": "Gaels le Chéile",
+        "note": "GAA-player campaign urging the Irish Government to plan for unity and establish an all-island Citizens' Assembly; letter signed by 17,000+ Gaels (started 2021).",
+        "url": "https://www.irishnews.com/news/northernirelandnews/2023/05/07/news/grassroots_gaels_campaign_urging_citizens_assembly_on_unity_secure_meeting_with_irish_government-3261575/"
+      },
+      {
+        "name": "Mary McAleese",
+        "note": "Former President of Ireland: \"reconciliation can only be fully achieved through reunification\"; argues partition \"was never intended to be permanent\" (2025).",
+        "url": "https://www.irishtimes.com/ireland/2025/10/02/irish-unification-can-offer-new-rising-tide-of-energy-and-momentum-mcaleese-says/"
+      },
+      {
+        "name": "Gerry Adams",
+        "note": "Former Sinn Féin leader: \"There will be a referendum on Irish unity. I am confident of this\" (2019); wrote 2016 NYT op-ed \"Brexit and Irish Unity\".",
+        "url": "https://www.irishtimes.com/news/ireland/irish-news/gerry-adams-says-government-has-a-duty-to-plan-for-irish-unity-1.3918300"
+      },
+      {
+        "name": "John Finucane",
+        "note": "Sinn Féin MP for North Belfast; hosted \"A New Ireland is Possible\" event and said constitutional-change conversations must be \"properly prepared for, supported and resourced\" (2026).",
+        "url": "https://sinnfein.ie/news/a-new-ireland-is-possible-event-a-positive-discussion-finucane/"
+      },
+      {
+        "name": "Declan Kearney",
+        "note": "Sinn Féin MLA for South Antrim: \"The time to plan and prepare for unity is now… there is now an urgent need to plan and prepare for constitutional change\" (2026).",
+        "url": "https://sinnfein.ie/news/the-time-to-plan-and-prepare-for-unity-is-now-kearney/"
+      }
+    ]
   },
   "contae_ard_mhacha": {
     "name_ga": "Ard Mhacha",
     "name_en": "County Armagh",
-    "groups": []
+    "groups": [
+      {
+        "name": "Seamus Mallon",
+        "note": "Former Deputy First Minister: nationalist \"to the core\" who supported Irish unity (2019).",
+        "url": "https://www.bbc.com/news/uk-northern-ireland-politics-48384795"
+      },
+      {
+        "name": "Conor Murphy",
+        "note": "Sinn Féin senator, from Camlough: believes a border poll can happen by 2030 (2024).",
+        "url": "https://www.sinnfein.ie/representatives/senator-conor-murphy/"
+      },
+      {
+        "name": "John O'Dowd",
+        "note": "Sinn Féin MLA for Upper Bann (Lurgan): \"Let's prepare for the change\" — says a united Ireland must be talked about and planned for (2022).",
+        "url": "https://www.newstalk.com/news/lets-prepare-for-the-change-sinn-fein-mla-says-united-ireland-must-be-talked-about-1339961"
+      },
+      {
+        "name": "Justin McNulty",
+        "note": "SDLP MLA for Newry and Armagh: \"I want to live in a New United Ireland that is an ambitious and diverse shared home place of fairness and opportunity for all the people\".",
+        "url": "https://www.facebook.com/JustinMcNu1ty/videos/iamsdlp-because-i-want-to-live-in-a-new-united-ireland-that-is-an-ambitious-dive/1426533861045242/"
+      },
+      {
+        "name": "Jarlath Burns",
+        "note": "GAA president, from South Armagh: \"the big prize of having a united Ireland, which would be a dream for me\" (2023).",
+        "url": "https://www.irishexaminer.com/sport/gaa/arid-41074772.html"
+      },
+      {
+        "name": "Barra Ó Muirí",
+        "note": "Slieve Gullion (South Armagh) Sinn Féin councillor who proposed the Newry, Mourne and Down District Council Irish-unity working-group motion (2022).",
+        "url": "https://www.armaghi.com/news/newry-news/irish-unity-proposal-in-newry-mourne-and-down-a-hostile-message-to-unionists/161858"
+      },
+      {
+        "name": "Cathal Boylan",
+        "note": "Sinn Féin (Keady): \"the interests of people on this island would be best served in a new Ireland… through referenda\" (NI Assembly, 2025).",
+        "url": "https://www.theyworkforyou.com/ni/?id=2025-09-09.2.13"
+      },
+      {
+        "name": "Aoife Finnegan",
+        "note": "South Armagh Sinn Féin MLA: \"commit ourselves to building a new and united Ireland\" (2025).",
+        "url": "https://www.armaghi.com/news/armagh-news/newry-and-armagh-easter-1916-commemorations-attract-large-numbers-2/268806"
+      },
+      {
+        "name": "Declan Murphy",
+        "note": "Slieve Gullion Sinn Féin councillor: \"a united Ireland and a real republic is the only fitting monument to their memory\" (2025).",
+        "url": "https://www.armaghi.com/news/armagh-news/newry-and-armagh-easter-1916-commemorations-attract-large-numbers-2/268806"
+      }
+    ]
   },
   "contae_cheatharlach": {
     "name_ga": "Ceatharlach",
@@ -45,97 +265,486 @@
   "contae_chiarraí": {
     "name_ga": "Ciarraí",
     "name_en": "County Kerry",
-    "groups": []
+    "groups": [
+      {
+        "name": "Mícheál Ó Muircheartaigh",
+        "note": "Legendary GAA commentator (Dún Síon, Co. Kerry): told Sinn Féin's 'Uniting Ireland' conference in Cork that Irish unity is \"on the horizon\" (2011).",
+        "url": "https://www.anphoblacht.com/contents/1013"
+      },
+      {
+        "name": "Martin Ferris",
+        "note": "Former Sinn Féin TD for Kerry North: \"Still fighting for a united Ireland\" (2007 interview); repeatedly campaigned for Irish reunification.",
+        "url": "https://www.anphoblacht.com/contents/17744"
+      },
+      {
+        "name": "Robert Brosnan",
+        "note": "Sinn Féin councillor (Tralee MD): \"I am proud to call myself a united Irelander… It's 100 years since the boundary commission divided our country, it's time Kerry got behind the unity referendum\" — tabled a motion urging the Government to prepare for Irish unity via an All-Island Citizens' Assembly and published plan (2025; reports do not record the vote).",
+        "url": "https://www.independent.ie/regionals/kerry/kerry-councillors-urge-government-to-prepare-for-a-united-ireland/a671846579.html"
+      },
+      {
+        "name": "Deirdre Ferris",
+        "note": "Sinn Féin councillor (Tralee MD): seconded Brosnan's motion — \"The border is a man-made construct in order for the British imperial state to keep a foothold in the Irish state itself… I'd hope everyone supports the idea that engagement at least begins\" (2025).",
+        "url": "https://www.independent.ie/regionals/kerry/kerry-councillors-urge-government-to-prepare-for-a-united-ireland/a671846579.html"
+      }
+    ]
   },
   "contae_chill_chainnigh": {
     "name_ga": "Cill Chainnigh",
     "name_en": "County Kilkenny",
-    "groups": []
+    "groups": [
+      {
+        "name": "Kilkenny County Council",
+        "note": "Unity motion on 16 February 2026 meeting agenda; listed as passed.",
+        "url": "https://kilkennycoco.ie/eng/your_council/council_meetings/kilkenny_county_council_ordinary_meetings/2026-council-meetings/2-agenda-february-council-meeting.pdf"
+      }
+    ]
   },
   "contae_chill_dara": {
     "name_ga": "Cill Dara",
     "name_en": "County Kildare",
-    "groups": []
+    "groups": [
+      {
+        "name": "Christy Moore",
+        "note": "Signed open letter calling on Varadkar to lead change toward a new Ireland, alongside 1,000 leading figures (2019).",
+        "url": "https://www.irishtimes.com/news/ireland/irish-news/a-new-ireland-1-000-leading-people-call-on-varadkar-to-lead-change-1.4071063"
+      },
+      {
+        "name": "Réada Cronin",
+        "note": "Sinn Féin TD (Kildare North), Dáil 21 October 2025: \"There comes a time in the march of a nation when it has to take the next step. That time is now. Irish unity is not just a distant aspiration.\"",
+        "url": "https://www.oireachtas.ie/en/debates/debate/dail/2025-10-21/32/"
+      },
+      {
+        "name": "Fiona O'Loughlin",
+        "note": "Fianna Fáil Senator (Kildare South): \"As a member of Fianna Fáil, the republic party, a united Ireland is an aspiration… an aspiration to work towards\" (2016 survey).",
+        "url": "http://cdn.thejournal.ie/media/2016/12/thejournal-ie-td-survey-on-irish-unity-results-december-2016-sheet1.pdf"
+      },
+      {
+        "name": "James Lawless",
+        "note": "Fianna Fáil TD (Kildare North): \"Reunification of our country is one of Fianna Fáil's primary goals… It is also a personal political priority of mine\" (2016 survey).",
+        "url": "http://cdn.thejournal.ie/media/2016/12/thejournal-ie-td-survey-on-irish-unity-results-december-2016-sheet1.pdf"
+      }
+    ]
   },
   "contae_chill_mhantáin": {
     "name_ga": "Cill Mhantáin",
     "name_en": "County Wicklow",
-    "groups": []
+    "groups": [
+      {
+        "name": "John Brady",
+        "note": "Sinn Féin TD (Bray): supported a border poll and reunification (2016 survey); 2026: \"On July 7th, the Dáil can take a meaningful step forward by supporting Sinn Féin's Irish Unity Bill.\"",
+        "url": "http://cdn.thejournal.ie/media/2016/12/thejournal-ie-td-survey-on-irish-unity-results-december-2016-sheet1.pdf"
+      },
+      {
+        "name": "Simon Harris",
+        "note": "Fine Gael TD (Greystones) and Taoiseach: \"It's entirely possible to see [a united Ireland] in my lifetime\" — his and his party's aspiration for a united Ireland (2024).",
+        "url": "https://www.thejournal.ie/simon-harris-says-irish-unity-possible-in-his-lifetime-6551884-Nov2024/"
+      }
+    ]
   },
   "contae_chorcaigh": {
     "name_ga": "Corcaigh",
     "name_en": "County Cork",
-    "groups": []
+    "groups": [
+      {
+        "name": "Cork City Council",
+        "note": "September 2025 New Ireland Forum motion (Cllr Shane O'Callaghan) carried 24-3-2 to \"plan the journey to Irish unity\"; May 2026 Sinn Féin motion calling on the Taoiseach to formally plan for Irish unity passed near-unanimously.",
+        "url": "https://www.independent.ie/county/cork/taoiseach-urged-to-lead-and-to-start-planning-for-irish-unity-cork-city-council-passes-motion/a/151438916.html"
+      },
+      {
+        "name": "Dónal Óg Cusack",
+        "note": "Signed open letter for a new Ireland alongside 1,000 leading figures (2019).",
+        "url": "https://www.irishtimes.com/news/ireland/irish-news/a-new-ireland-1-000-leading-people-call-on-varadkar-to-lead-change-1.4071063"
+      },
+      {
+        "name": "Tadhg Hickey",
+        "note": "\"The idea of a republic of Scotland and a united Ireland is something I'd aspire to\" (2023).",
+        "url": "https://www.thenational.scot/news/23796833.tadhg-hickey-talks-scottish-independence-ahead-glasgow-gig/"
+      },
+      {
+        "name": "Kenneth Collins",
+        "note": "Sinn Féin councillor: \"delighted\" that councillors from many parties \"enthusiastically made a joint call on the government to produce a plan towards a united Ireland and to work towards securing a date for unity referendums\" (2026).",
+        "url": "https://www.independent.ie/regionals/cork/news/taoiseach-urged-to-lead-and-to-start-planning-for-irish-unity-cork-city-council-passes-motion/a2003987948.html"
+      },
+      {
+        "name": "Kevin O'Keeffe",
+        "note": "Fianna Fáil TD (Cork East): \"As a republican I would support such a poll whenever it would be due to take place. A united Ireland is something that has the potential to prosper economically socially and culturally\" (2016).",
+        "url": "http://cdn.thejournal.ie/media/2016/12/thejournal-ie-td-survey-on-irish-unity-results-december-2016-sheet1.pdf"
+      },
+      {
+        "name": "Donnchadh Ó Laoghaire",
+        "note": "Sinn Féin TD (Cork South-Central): supported a border poll and reunification in a Republic vote (2016 survey).",
+        "url": "http://cdn.thejournal.ie/media/2016/12/thejournal-ie-td-survey-on-irish-unity-results-december-2016-sheet1.pdf"
+      },
+      {
+        "name": "Jonathan O'Brien",
+        "note": "Sinn Féin TD (Cork North-Central): supported a border poll and reunification in a Republic vote (2016 survey).",
+        "url": "http://cdn.thejournal.ie/media/2016/12/thejournal-ie-td-survey-on-irish-unity-results-december-2016-sheet1.pdf"
+      },
+      {
+        "name": "Pat Buckley",
+        "note": "Sinn Féin TD (Cork East): supported a border poll and reunification, citing the Good Friday Agreement border-poll provision and the benefits of ending partition (2016 survey).",
+        "url": "http://cdn.thejournal.ie/media/2016/12/thejournal-ie-td-survey-on-irish-unity-results-december-2016-sheet1.pdf"
+      },
+      {
+        "name": "Michael Collins",
+        "note": "Independent TD (Cork South-West): supported a border poll and reunification in a Republic vote (2016 survey).",
+        "url": "http://cdn.thejournal.ie/media/2016/12/thejournal-ie-td-survey-on-irish-unity-results-december-2016-sheet1.pdf"
+      },
+      {
+        "name": "Aindrias Moynihan",
+        "note": "Fianna Fáil TD (Cork North-West): supported a border poll and reunification in a Republic vote (2016 survey).",
+        "url": "http://cdn.thejournal.ie/media/2016/12/thejournal-ie-td-survey-on-irish-unity-results-december-2016-sheet1.pdf"
+      },
+      {
+        "name": "University College Cork Students' Union",
+        "note": "Voted 63% Yes (2,450 to 1,433) in a March 2017 referendum on \"Should UCC Students' Union campaign in favour of a United Ireland?\"",
+        "url": "https://www.trinitynews.ie/2017/03/university-college-cork-votes-to-support-irish-reunification/"
+      }
+    ]
   },
   "contae_dhoire": {
     "name_ga": "Doire",
     "name_en": "County Derry",
-    "groups": []
+    "groups": [
+      {
+        "name": "Derry City and Strabane District Council",
+        "note": "April 2022 motion (Cllr Conor Heaney) establishing a Constitutional Change/Irish Unity Working Group; May 2025 motion urging the Irish Government to establish a Citizens' Assembly to plan for a unity referendum.",
+        "url": "https://www.derrynow.com/news/derry-councillor-welcomes-call-for-citizens-assembly-on-irish-unity-6828147"
+      },
+      {
+        "name": "James McClean",
+        "note": "Signed open letters to Varadkar (2017, 2018) defending Irish citizens' rights in the North; prominent nationalist voice.",
+        "url": "https://www.thejournal.ie/letter-varadkar-northern-ireland-brexit-4324213-Nov2018/"
+      },
+      {
+        "name": "Martin McGuinness",
+        "note": "Former Deputy First Minister: \"If there is a vote in Britain to leave the EU there is a democratic imperative to provide Irish citizens with the right to vote in a border poll to end partition\" (2016).",
+        "url": "https://www.bbc.com/news/uk-northern-ireland-politics-35788341"
+      },
+      {
+        "name": "Colum Eastwood",
+        "note": "Former SDLP leader: \"There should be a border poll in 2030\" if conditions are right (2023).",
+        "url": "https://www.irishnews.com/news/northernirelandnews/2023/09/08/news/colum_eastwood_voices_support_for_a_border_poll_in_2030-3597783"
+      },
+      {
+        "name": "John Hume",
+        "note": "SDLP founder and Nobel laureate: held that \"a 32-county republic is best for Ireland\" with unity to come by consent of the northern majority (1964 onwards).",
+        "url": "https://www.irishtimes.com/news/ireland/irish-news/john-hume-a-life-in-quotes-1.4321133"
+      },
+      {
+        "name": "Conor Heaney",
+        "note": "Sinn Féin councillor: proposed the motion establishing the council's Irish Unity Working Group (2021), describing the reunification consultation as \"groundbreaking work\" and urging people to join \"the conversation around a New Ireland.\"",
+        "url": "https://www.derrynow.com/news/home/1014262/derry-public-urged-to-have-their-say-on-irish-unity.html"
+      },
+      {
+        "name": "Shaun Harkin",
+        "note": "People Before Profit councillor: \"I'm in favour of a citizen's assembly, I'm in favour of a united Ireland, I'm in favour of a united socialist Ireland\" (2024).",
+        "url": "https://friendsofsinnfein.com/citizens-assembly-on-irish-unity-needs-to-be-established/"
+      },
+      {
+        "name": "Paul Boggs",
+        "note": "Sinn Féin councillor: brought the 2024 motion writing to the Taoiseach for a Citizens' Assembly on Irish unity; told the European Parliament (2025): \"Colonial rule, partition and separate states in Ireland have all failed. Unity, through self-determination, is the way forward.\"",
+        "url": "https://www.strabaneweekly.co.uk/news/2025/04/26/gallery/local-councillor-presses-case-for-irish-unity-at-european-parliament-57178/"
+      },
+      {
+        "name": "Brian Tierney",
+        "note": "SDLP councillor: said he wanted \"a new citizen's assembly set up to talk about the reunification of this country,\" adding \"anything we can do to bring that one step forward, I think we should do\" (2024).",
+        "url": "https://www.derryjournal.com/news/people/derry-strabane-reps-brand-taoiseach-simon-harris-out-of-touch-over-comments-on-belfast-derry-v-paris-berlin-4604471"
+      },
+      {
+        "name": "Derry Gaels (Chrissy McKaigue & Paddy Bradley)",
+        "note": "Derry GAA figures leading/backing the Gaels le Chéile campaign urging planning for a referendum on Irish unity and an All-Island Citizens' Assembly (2021).",
+        "url": "https://www.irishnews.com/sport/gaafootball/2021/11/19/news/support-for-gaels-letter-to-taoiseach-spreading-throughout-ireland-2512955/"
+      }
+    ]
   },
   "contae_dhún_na_ngall": {
     "name_ga": "Dún na nGall",
     "name_en": "County Donegal",
-    "groups": []
+    "groups": [
+      {
+        "name": "Donegal County Council",
+        "note": "Voted in support of the Good Friday Agreement and preparations for a border poll (2019).",
+        "url": "https://www.donegaldaily.com/news/county-councillors-vote-in-support-of-border-poll-344098"
+      },
+      {
+        "name": "Donegal County Council",
+        "note": "Motion by Cllr Gerry McMonagle (seconded Cllr Jack Murray) calling on the Government to plan and prepare for a United Ireland, passed unanimously (2025).",
+        "url": "https://www.donegallive.ie/north-west/donegal-live/donegal-county-council-calls-on-government-to-prepare-for-a-united-ireland-6690696"
+      }
+    ]
   },
   "contae_fhear_manach": {
     "name_ga": "Fear Manach",
     "name_en": "County Fermanagh",
-    "groups": []
+    "groups": [
+      {
+        "name": "Fermanagh and Omagh District Council",
+        "note": "Motion by Cllr Stephen McCann, seconded Cllr Debbie Coyle, establishing a Working Group on Irish Unity; passed 23-9 (2 abstentions); upheld after call-in reconsidered October 2025.",
+        "url": "https://www.fermanaghomagh.com/motion/irish-unity/"
+      },
+      {
+        "name": "Adrian Dunbar",
+        "note": "\"We're just gradually drifting towards a united Ireland. It is actually happening... there's an inevitability now\" (2024).",
+        "url": "https://www.impartialreporter.com/news/24494510.adrian-dunbar-gradually-drifting-towards-united-ireland/"
+      },
+      {
+        "name": "Ciaran McMenamin",
+        "note": "Signed 2018 open letter; described letters as representative of \"hundreds of thousands of people\" across the island.",
+        "url": "https://www.thejournal.ie/letter-varadkar-northern-ireland-brexit-4324213-Nov2018/"
+      },
+      {
+        "name": "Pat Cullen",
+        "note": "Sinn Féin MP for Fermanagh and South Tyrone: \"Together, we can build a new and united Ireland\" (2025); \"Personally, I believe Irish Unity is inevitable\" (2024).",
+        "url": "https://www.irishcentral.com/opinion/irish-unity-pat-cullen"
+      },
+      {
+        "name": "Fermanagh Gaels",
+        "note": "Fermanagh GAA figures (including All Stars Peter McGinnity and Barry Owens) backed the Gaels le Chéile letter urging the Taoiseach to begin planning for an agreed shared Ireland / constitutional change and an All-Island Citizens' Assembly (2021).",
+        "url": "https://www.irishnews.com/news/northernirelandnews/2021/07/02/news/another-three-ulster-gaa-counties-join-calls-for-taoiseach-to-kickstart-conversations-about-future-of-agreed-shared-ireland--2373537/"
+      },
+      {
+        "name": "Stephen McCann",
+        "note": "Sinn Féin councillor: proposing the 2022 Citizens' Assembly motion, said \"It's no longer a question of 'if' Unification comes about, but 'when'. Transition to a new Ireland must be orderly, carefully planned.\"",
+        "url": "https://www.impartialreporter.com/news/23068436.fermanagh-councillors-narrowly-back-all-ireland-citizens-assembly-call/"
+      },
+      {
+        "name": "Debbie Coyle",
+        "note": "Sinn Féin councillor: \"Conversations about Irish unity are happening more frequently. It's our responsibility to prepare, plan and consult\" (2026).",
+        "url": "https://www.impartialreporter.com/news/25783652.identity-clash-council-backs-irish-unity-working-group/"
+      },
+      {
+        "name": "Patrick Withers",
+        "note": "Sinn Féin councillor, seconding the 2022 Citizens' Assembly motion: \"Some may claim the cost-of-living crisis means now isn't the time to focus on Irish unity; however, it's right to do just that.\"",
+        "url": "https://www.impartialreporter.com/news/23068436.fermanagh-councillors-narrowly-back-all-ireland-citizens-assembly-call/"
+      }
+    ]
   },
   "contae_laoise": {
     "name_ga": "Laois",
     "name_en": "County Laois",
-    "groups": []
+    "groups": [
+      {
+        "name": "Laois County Council",
+        "note": "Motion by Cllr Aidan Mullins, seconded Cllr Tommy Mulligan, to write to the Office of An Taoiseach requesting the Government plan and prepare for Irish unity (2026).",
+        "url": "https://www.ireland-live.ie/midlands/laois-live/laois-councillors-support-plan-to-prepare-for-a-united-ireland-6639516"
+      }
+    ]
   },
   "contae_liatroma": {
     "name_ga": "Liatroim",
     "name_en": "County Leitrim",
-    "groups": []
+    "groups": [
+      {
+        "name": "Leitrim County Council",
+        "note": "Motion by Cllr Róisín Kenny to write to the Office of An Taoiseach to plan and prepare for Irish unity through three actions; received widespread support (2025).",
+        "url": "https://www.leitrimobserver.ie/news/growing-momentum-for-irish-unity-sparks-motion-at-leitrim-county-council-6705295"
+      }
+    ]
   },
   "contae_loch_garman": {
     "name_ga": "Loch Garman",
     "name_en": "County Wexford",
-    "groups": []
+    "groups": [
+      {
+        "name": "Wexford County Council",
+        "note": "Passed a motion to call on the Taoiseach to plan and prepare for a united Ireland (2026).",
+        "url": "https://www.wexfordcoco.ie/sites/default/files/content/Agenda_County_Council_Meeting_2026January12.pdf"
+      }
+    ]
   },
   "contae_luimnigh": {
     "name_ga": "Luimneach",
     "name_en": "County Limerick",
-    "groups": []
+    "groups": [
+      {
+        "name": "University of Limerick Students' Union",
+        "note": "Voted 77.05% Yes (turnout 2,166) in an April 2017 referendum mandating ULSU to lobby the Irish Government to hold a referendum on the reunification of Ireland.",
+        "url": "https://www.trinitynews.ie/2017/04/ul-votes-to-support-united-ireland/"
+      },
+      {
+        "name": "Maurice Quinlivan",
+        "note": "Sinn Féin TD (Limerick City): party members \"from the 32 counties\" gathered \"to discuss how best we can achieve our central objective of a new fair and just united Ireland\" (2022).",
+        "url": "https://www.limerickpost.ie/2022/11/08/united-ireland-is-a-major-issue-for-sinn-fein-in-limerick/"
+      }
+    ]
   },
   "contae_lú": {
     "name_ga": "Lú",
     "name_en": "County Louth",
-    "groups": []
+    "groups": [
+      {
+        "name": "Louth County Council",
+        "note": "Motion by Cllr Ruairí Ó Murchú calling on the Government to plan for a United Ireland (2019); border-poll element removed on amendment.",
+        "url": "https://www.dundalkdemocrat.ie/news/louth-councillors-pass-motion-calling-on-government-to-plan-for-a-united-ireland-8122503"
+      }
+    ]
   },
   "contae_mhaigh_eo": {
     "name_ga": "Maigh Eo",
     "name_en": "County Mayo",
-    "groups": []
+    "groups": [
+      {
+        "name": "Mayo County Council",
+        "note": "Motion by Cllr Gerry Murray, seconded Cllr Harry Barrett, to write to the Taoiseach seeking planning and preparation for Irish unity; approved by all members (2026).",
+        "url": "https://www.westernpeople.ie/news/mayo-county-council-passes-motion-on-irish-unity_arid-90919.html"
+      }
+    ]
   },
   "contae_mhuineacháin": {
     "name_ga": "Muineachán",
     "name_en": "County Monaghan",
-    "groups": []
+    "groups": [
+      {
+        "name": "Monaghan County Council",
+        "note": "Sinn Féin group motion supported by the council calling for an all-island Citizens' Assembly, a Joint Oireachtas Committee on Irish Unity, a published plan, unionist engagement and a referendum date; council to write to An Taoiseach (2026).",
+        "url": "https://www.northernsound.ie/news/monaghan-county-council-motion-on-irish-unity-281048"
+      }
+    ]
   },
   "contae_na_gaillimhe": {
     "name_ga": "Gaillimh",
     "name_en": "County Galway",
-    "groups": []
+    "groups": [
+      {
+        "name": "Catherine Connolly",
+        "note": "Uachtarán na hÉireann: Ireland should not \"wait and see\" on reunification; running for the presidency on a \"united and independent Ireland\" platform (2025).",
+        "url": "https://www.bbc.co.uk/news/articles/cpqv0y5v84qo"
+      },
+      {
+        "name": "NUI Galway Students' Union",
+        "note": "Voted 74% Yes in a 2017 referendum supporting Ireland's reunification.",
+        "url": "https://old.trinitynews.ie/2017/03/nui-galway-votes-to-support-irelands-reunification/"
+      },
+      {
+        "name": "Louis O'Hara",
+        "note": "Sinn Féin, Galway East: \"Irish unity no longer a question of if, but when\" (2021).",
+        "url": "https://www.advertiser.ie/galway/article/119456/irish-unity-no-longer-a-question-of-if-but-when"
+      },
+      {
+        "name": "Mairéad Farrell",
+        "note": "Sinn Féin, Galway West: campaigned for students to support a united Ireland (2017) and hosted the Sinn Féin unity commission's Gaeltacht People's Assembly on Irish unity in Conamara (2023).",
+        "url": "https://www.advertiser.ie/galway/article/90720/nuig-students-to-vote-on-supporting-a-united-ireland"
+      },
+      {
+        "name": "Galway County Council",
+        "note": "Passed a motion endorsing planning/preparation for Irish unity (July 2026). Source is a Gerry Adams social media post — verify against council minutes before publishing.",
+        "url": "https://x.com/GerryAdamsSF/status/2081737701846360426"
+      }
+    ]
   },
   "contae_na_hiarmhí": {
     "name_ga": "Iarmhí",
     "name_en": "County Westmeath",
-    "groups": []
+    "groups": [
+      {
+        "name": "Westmeath County Council",
+        "note": "Motion by Cllr David Jones to write to the Taoiseach to plan and prepare for Irish unity; passed unanimously (2026).",
+        "url": "https://topic.ie/calls-on-government-to-prepare-for-irish-unity"
+      },
+      {
+        "name": "David Jones",
+        "note": "Sinn Féin councillor and proposer of the 2026 motion: \"As a true Republican, I would love to see a united Ireland.\"",
+        "url": "https://www.westmeathexaminer.ie/2026/05/14/126054/"
+      },
+      {
+        "name": "Julie McCourt",
+        "note": "Sinn Féin councillor; supported the 2026 unity motion.",
+        "url": "https://www.westmeathexaminer.ie/2026/05/14/126054/"
+      },
+      {
+        "name": "Ken Glynn",
+        "note": "Fianna Fáil councillor; supported the 2026 unity motion.",
+        "url": "https://www.westmeathexaminer.ie/2026/05/14/126054/"
+      },
+      {
+        "name": "Niall Gaffney",
+        "note": "Fianna Fáil councillor; said unity is \"about uniting people\" (2026).",
+        "url": "https://www.westmeathexaminer.ie/2026/05/14/126054/"
+      },
+      {
+        "name": "Vinny McCormack",
+        "note": "Fianna Fáil councillor: \"All in his party aspired to the ideal of a united Ireland\", with consensus as the mechanism (2026).",
+        "url": "https://www.westmeathexaminer.ie/2026/05/14/126054/"
+      },
+      {
+        "name": "Denis Leonard",
+        "note": "Labour councillor: agreed with the motion; \"his party had always been an All-Ireland movement\" (2026).",
+        "url": "https://www.westmeathexaminer.ie/2026/05/14/126054/"
+      },
+      {
+        "name": "Paul Hogan",
+        "note": "Independent Ireland councillor: \"I've always believed that partition doesn't make sense — two health systems, two housing systems... on a relatively small island\" (2026).",
+        "url": "https://www.westmeathexaminer.ie/2026/05/14/126054/"
+      },
+      {
+        "name": "Frankie Keena",
+        "note": "Fianna Fáil councillor; moved the amendment \"continuing to support progress towards unity\" (2026).",
+        "url": "https://www.westmeathexaminer.ie/2026/05/14/126054/"
+      },
+      {
+        "name": "Sorca Clarke",
+        "note": "Sinn Féin TD for Longford-Westmeath: \"The greatest mistake Ireland could make is to refuse to prepare\" for Irish unity (2026).",
+        "url": "https://www.longfordleader.ie/news/politics/government-has-no-irish-unity-preparation-says-longford-westmeath-td-8796098"
+      },
+      {
+        "name": "Robert Troy",
+        "note": "Fianna Fáil TD for Longford-Westmeath: \"As a member of Fianna Fáil, I am proud to stand in a republican tradition that has always believed in the unity of our people and our island\" (2026).",
+        "url": "https://www.kildarestreet.com/debates/?id=2026-07-16a.493"
+      }
+    ]
   },
   "contae_na_mí": {
     "name_ga": "Mí",
     "name_en": "County Meath",
-    "groups": []
+    "groups": [
+      {
+        "name": "Meath County Council",
+        "note": "Passed a motion (1 September 2025, 19 in favour / 7 against) calling on the Government to \"plan and prepare for Irish unity\" via an all-island Citizens' Assembly, Joint Oireachtas Committee on Irish Unity, a published plan and a secured referendum date.",
+        "url": "https://www.meath.ie/system/files/media/file-uploads/2025-10/09-25%20Minutes%20September%20Meath%20County%20Council.pdf"
+      },
+      {
+        "name": "Eddie Fennessy",
+        "note": "Labour councillor (Navan): submitted and proposed the Meath County Council motion 10.1 on planning for Irish unity (2025).",
+        "url": "https://www.meath.ie/system/files/media/file-uploads/2025-10/09-25%20Minutes%20September%20Meath%20County%20Council.pdf"
+      },
+      {
+        "name": "Gerry O'Connor",
+        "note": "Councillor: proposed the amendment to the Meath unity motion (passed as amended, 2025).",
+        "url": "https://www.meath.ie/system/files/media/file-uploads/2025-10/09-25%20Minutes%20September%20Meath%20County%20Council.pdf"
+      },
+      {
+        "name": "Alan Tobin",
+        "note": "Councillor: seconded the amendment to the Meath unity motion (2025).",
+        "url": "https://www.meath.ie/system/files/media/file-uploads/2025-10/09-25%20Minutes%20September%20Meath%20County%20Council.pdf"
+      },
+      {
+        "name": "Fionnán Blake",
+        "note": "Sinn Féin councillor: seconded the amended Meath unity motion (2025).",
+        "url": "https://www.meath.ie/system/files/media/file-uploads/2025-10/09-25%20Minutes%20September%20Meath%20County%20Council.pdf"
+      },
+      {
+        "name": "Peadar Tóibín",
+        "note": "Aontú TD (Meath West): \"I welcome this motion and I welcome the opportunity to sign it… Ireland is on the verge of Irish unity\" (Dáil, 21 October 2025); supported a border poll and reunification (2016 survey).",
+        "url": "https://www.oireachtas.ie/en/debates/debate/dail/2025-10-21/32/"
+      },
+      {
+        "name": "Darren O'Rourke",
+        "note": "Sinn Féin TD (Meath East): \"A new, United Ireland, is better for us all\" (2026).",
+        "url": "https://www.facebook.com/Darren.ORourkeSF/posts/a-new-united-ireland-is-better-for-us-all-a-really-exciting-and-significant-day-/1376708600943273/"
+      }
+    ]
   },
   "contae_phort_láirge": {
     "name_ga": "Port Láirge",
     "name_en": "County Waterford",
-    "groups": []
+    "groups": [
+      {
+        "name": "Waterford City and County Council",
+        "note": "Passed a motion to call on the Taoiseach and Stormont to establish a United Ireland citizens' assembly (2025).",
+        "url": "https://www.waterford-news.ie/news/council-passes-motion-to-call-on-taoiseach-and-stormont-for-united-ireland-citizens-assembly_arid-80742.html"
+      }
+    ]
   },
   "contae_ros_comáin": {
     "name_ga": "Ros Comáin",
@@ -145,22 +754,86 @@
   "contae_shligigh": {
     "name_ga": "Sligeach",
     "name_en": "County Sligo",
-    "groups": []
+    "groups": [
+      {
+        "name": "Sligo County Council",
+        "note": "Motion on 1 December 2025 agenda carrying the standard unity text (Citizens' Assembly, Joint Oireachtas Committee, published plan, unionist engagement, referendum date); listed as passed.",
+        "url": "https://www.sligococo.ie/YourCouncil/CountyCouncil/Agendas/Agendas2025/MeetingMainBody,69556,en.html"
+      }
+    ]
   },
   "contae_thiobraid_árann": {
     "name_ga": "Tiobraid Árann",
     "name_en": "County Tipperary",
-    "groups": []
+    "groups": [
+      {
+        "name": "Shane MacGowan",
+        "note": "\"I think it should happen now — the English should get out... the Brits have no right to be there. I believe in a republic, a socialist republic\" (2022).",
+        "url": "https://republican-news.org/current/news/2022/01/shane_is_a_staunch_republican_.html"
+      }
+    ]
   },
   "contae_thír_eoghain": {
     "name_ga": "Tír Eoghain",
     "name_en": "County Tyrone",
-    "groups": []
+    "groups": [
+      {
+        "name": "Mid Ulster District Council",
+        "note": "May 2021 motion progressing workshops on Irish unity and consulting ratepayers; October 2025 motion calling on the Irish Government to prepare for Irish unity and establish a Citizens' Assembly.",
+        "url": "https://www.midulstercouncil.org/your-council/consultations/constitutional-change"
+      },
+      {
+        "name": "Michelle O'Neill",
+        "note": "First Minister of the North of Ireland / Sinn Féin vice-president: a vote on unity expected \"in the next decade\" (2024); 2026: the North \"should hold unity referendum by 2030\".",
+        "url": "https://news.sky.com/story/northern-ireland-should-hold-unity-referendum-by-2030-first-minister-says-13501305"
+      },
+      {
+        "name": "Órfhlaith Begley",
+        "note": "Sinn Féin MP for West Tyrone (from Carrickmore): campaigned for a unity referendum, saying the diaspora \"can play an important role in helping to secure that referendum\" (2020).",
+        "url": "https://sinnfein.ie/news/irish-diaspora-have-role-to-play-in-securing-unity-referendum-begley/"
+      },
+      {
+        "name": "Maolíosa McHugh",
+        "note": "Sinn Féin MLA for West Tyrone (from Castlederg): \"I have taken every opportunity to further the cause of a new and united Ireland\" (2026).",
+        "url": "https://www.bbc.co.uk/news/articles/cpwj7nld7llo"
+      },
+      {
+        "name": "Michelle Gildernew",
+        "note": "Former Sinn Féin MP for Fermanagh and South Tyrone, born in Clonoe: \"I have spent my whole life working towards unity. Partition has failed everybody on the island of Ireland\" (2025).",
+        "url": "https://www.irishnews.com/news/northern-ireland/michelle-gildernew-i-still-have-tons-of-energy-WH33XPSXCRG2ZLDHC6RLAZYIJE/"
+      },
+      {
+        "name": "Padraig Hampsey",
+        "note": "Tyrone GAA All-Ireland-winning captain; one of 12,000 Ulster Gaels who signed the letter urging the Taoiseach to \"start preparing for a referendum on Irish unity and establish a Citizens' Assembly\" (2021).",
+        "url": "https://www.irishnews.com/sport/gaafootball/2021/11/19/news/support-for-gaels-letter-to-taoiseach-spreading-throughout-ireland-2512955/"
+      },
+      {
+        "name": "Cathal Mallaghan",
+        "note": "Sinn Féin councillor and Mid Ulster Council Chair: said during the council's Irish unity debate (2020) he \"believes that the quality of life of the people on this island would be enhanced by its unification.\"",
+        "url": "https://armaghi.com/news/dungannon-news/what-are-they-afraid-of-as-irish-unity-motion-sparks-heated-debate-in-mid-ulster-council-chamber/123902"
+      },
+      {
+        "name": "Barry Monteith",
+        "note": "Independent Tyrone councillor: promoted the 1916 Societies' One Ireland One Vote all-Ireland-unity referendum campaign (2015) and backed the 2021 Mid Ulster Irish unity motion.",
+        "url": "https://republican-news.org/current/news/2015/08/one_ireland_one_vote_petition_.html"
+      },
+      {
+        "name": "John McNamee",
+        "note": "Sinn Féin councillor, Cookstown: brought the May 2021 motion that led Mid Ulster Council to progress workshops on Irish unity and consult ratepayers — passed 25-15.",
+        "url": "https://www.irishnews.com/news/council/2021/06/01/news/mid-ulster-council-to-consult-local-businesses-and-rate-payers-on-prospect-of-irish-unity-2341139/"
+      }
+    ]
   },
   "contae_uíbh_fhailí": {
     "name_ga": "Uíbh Fhailí",
     "name_en": "County Offaly",
-    "groups": []
+    "groups": [
+      {
+        "name": "Offaly County Council",
+        "note": "Unanimously agreed with a motion endorsing the Dáil's push for Irish unity (2025).",
+        "url": "https://www.offalyexpress.ie/news/midland-tribune/offaly-county-council-members-agree-with-push-for-irish-unity-6665501"
+      }
+    ]
   },
   "contae_átha_cliath": {
     "name_ga": "Áth Cliath",
@@ -170,6 +843,202 @@
         "name": "South Dublin County Council",
         "note": "Voted in favour of calling on the Government to plan for a United Ireland and for a border poll on Irish unification (October 2019).",
         "url": "https://www.dublinlive.ie/news/dublin-news/south-dublin-county-council-votes-17088055"
+      },
+      {
+        "name": "Dublin City Council",
+        "note": "Passed a motion on a border poll for Irish unity (2019).",
+        "url": "https://www.derrynow.com/news/dublin-city-council-passes-motion-on-a-border-poll-for-irish-unity-8166333"
+      },
+      {
+        "name": "Bono (U2)",
+        "note": "Said a united Ireland \"would be wonderful\"; \"this pond is too small for a feud among frogs\" (2023).",
+        "url": "https://www.irishtimes.com/politics/2023/09/30/bono-says-united-ireland-would-be-wonderful/"
+      },
+      {
+        "name": "Sinéad O'Connor",
+        "note": "Would vote for a united Ireland: \"Yes, of course I would... Abso-bloody-lutely, I'd be the first person tearing the door down!\" (2021).",
+        "url": "https://www.bbc.co.uk/news/entertainment-arts-57305364"
+      },
+      {
+        "name": "Damien Dempsey",
+        "note": "Signed open letters (2018, 2019) urging protection of Irish identity and rights in the North.",
+        "url": "https://www.thejournal.ie/letter-varadkar-northern-ireland-brexit-4324213-Nov2018/"
+      },
+      {
+        "name": "Jim Sheridan",
+        "note": "Signed open letters (2018, 2019); lifelong nationalist filmmaker.",
+        "url": "https://www.thejournal.ie/letter-varadkar-northern-ireland-brexit-4324213-Nov2018/"
+      },
+      {
+        "name": "Frances Black",
+        "note": "Senator and singer; signed open letters (2018, 2019) on Irish unity and rights in the North.",
+        "url": "https://www.thejournal.ie/letter-varadkar-northern-ireland-brexit-4324213-Nov2018/"
+      },
+      {
+        "name": "Mary Black",
+        "note": "Signed open letter for a new Ireland alongside 1,000 leading figures (2019).",
+        "url": "https://www.irishtimes.com/news/ireland/irish-news/a-new-ireland-1-000-leading-people-call-on-varadkar-to-lead-change-1.4071063"
+      },
+      {
+        "name": "Sinn Féin",
+        "note": "Self-describes as \"the United Ireland party\"; manifesto plans referendums on reunification \"by the end of this decade\"; proposes a Minister for Reunification, Citizens' Assemblies and a Green Paper.",
+        "url": "https://sinnfein.ie/irish-unity/"
+      },
+      {
+        "name": "Fianna Fáil",
+        "note": "Manifesto pledges \"the unity of all the Irish people within a shared state\" as a \"fundamental goal\" (2024).",
+        "url": "https://www.irishnews.com/news/politics/manifestos-unity-commitments-welcomed-by-new-ireland-commission-chair-3FZH7OE2KZHAFDOTBXJOB232RQ/"
+      },
+      {
+        "name": "Fine Gael",
+        "note": "2024 manifesto states it is \"committed to unification as our objective\"; Leo Varadkar pushed all parties to treat unity as \"an objective, not an aspiration\".",
+        "url": "https://www.finegael.ie/our-policies/northern-ireland-and-the-future-of-our-shared-island/"
+      },
+      {
+        "name": "Labour Party",
+        "note": "\"Uniting Ireland for All\" position paper (March 2024) proposes a Department of Unification, Citizens' Assemblies and a unity referendum \"within the next decade\"; party founded by James Connolly.",
+        "url": "https://labour.ie/wp-content/uploads/2021/10/Uniting-Ireland-Labour-Party-Position-Paper-2024-1.pdf"
+      },
+      {
+        "name": "Social Democrats",
+        "note": "\"Supporting the unification of our island will be an important objective of the Social Democrats in government\" (2023 policy paper).",
+        "url": "https://www.socialdemocrats.ie/wp-content/uploads/2023/11/NorthernIreland.pdf"
+      },
+      {
+        "name": "Aontú",
+        "note": "Official policy backs a referendum on reunification and says it \"will actively campaign for a Yes to Unity vote\".",
+        "url": "https://aontu.ie/issues/brexit-and-irish-unity/"
+      },
+      {
+        "name": "People Before Profit",
+        "note": "32-county socialist party; 2024 manifesto includes \"Campaign for a Border Poll\"; campaigns for a Yes vote for a socialist republic.",
+        "url": "https://www.pbp.ie/no-to-borders-yes-to-32-county-socialism/"
+      },
+      {
+        "name": "Ireland's Future",
+        "note": "All-island civic nationalist body campaigning for \"a new and united Ireland\"; argues a unity referendum \"could and should be held in 2030\"; organises major pro-unity events.",
+        "url": "https://irelandsfuture.com/about-us/"
+      },
+      {
+        "name": "Trade Unionists for a New and United Ireland (TUNUI)",
+        "note": "All-island campaign by 150+ trade unionists calling on the labour movement to campaign for Irish unity.",
+        "url": "https://tu4ui.com/"
+      },
+      {
+        "name": "Labour for Irish Unity",
+        "note": "All-island network campaigning to broaden support for a united Ireland within the labour movement.",
+        "url": "https://www.labourforirishunity-newchapters.com/"
+      },
+      {
+        "name": "Bertie Ahern",
+        "note": "Former Taoiseach: a united Ireland is \"possible\" within a decade and a border poll \"inevitable\" (2020); repeated the \"inevitable\" view in 2025.",
+        "url": "https://www.irishcentral.com/news/bertie-ahern-united-ireland"
+      },
+      {
+        "name": "Leo Varadkar",
+        "note": "Former Taoiseach: \"would like to see a united Ireland\" if the people of the North consent (2019); 2024: \"Irish unity should be an objective rather than aspiration\".",
+        "url": "https://www.irishcentral.com/news/politics/varadkar-united-ireland"
+      },
+      {
+        "name": "Mary Lou McDonald",
+        "note": "Sinn Féin president: an Irish unification referendum should be held by 2030 (2024).",
+        "url": "https://news.sky.com/story/irish-unification-referendum-by-2030-sinn-fein-leader-tells-sky-news-13066545"
+      },
+      {
+        "name": "Mícheál Mac Donncha",
+        "note": "Sinn Féin Dublin City councillor: proposed the December 2022 Dublin City Council united-Ireland motion (passed 46-4-4).",
+        "url": "https://councilvotetracker.ie/dcc/motions/53324f9f"
+      },
+      {
+        "name": "Ivana Bacik",
+        "note": "Labour TD (Dublin Bay South): welcomed and spoke in support of the 21 October 2025 Dáil unity motion.",
+        "url": "https://www.oireachtas.ie/en/debates/debate/dail/2025-10-21/32/"
+      },
+      {
+        "name": "Richard Boyd Barrett",
+        "note": "People Before Profit TD (Dún Laoghaire): supported a border poll and reunification (2016 survey).",
+        "url": "http://cdn.thejournal.ie/media/2016/12/thejournal-ie-td-survey-on-irish-unity-results-december-2016-sheet1.pdf"
+      },
+      {
+        "name": "Catherine Martin",
+        "note": "Green Party TD (Dublin Rathdown): \"I would love to see a united Ireland by peaceful means\" (2016 survey).",
+        "url": "http://cdn.thejournal.ie/media/2016/12/thejournal-ie-td-survey-on-irish-unity-results-december-2016-sheet1.pdf"
+      },
+      {
+        "name": "Eamon Ryan",
+        "note": "Green Party TD (Dublin Bay South): supported unification in a referendum (2016 survey).",
+        "url": "http://cdn.thejournal.ie/media/2016/12/thejournal-ie-td-survey-on-irish-unity-results-december-2016-sheet1.pdf"
+      },
+      {
+        "name": "University College Dublin Students' Union",
+        "note": "Voted 63.1% Yes in a March 2017 referendum mandating UCDSU to adopt a pro-unity stance on a united Ireland.",
+        "url": "https://universitytimes.ie/2017/03/ucd-students-vote-to-support-the-reunification-of-ireland/"
+      },
+      {
+        "name": "Dublin City University Students' Union",
+        "note": "Voted 76% Yes (1,494 to 473) in a March 2018 referendum mandating DCUSU to support reunification and call on the State to hold a reunification referendum.",
+        "url": "https://thecollegeview.ie/2018/03/10/dcusu-voted-support-reunification-ireland/"
+      }
+    ]
+  },
+  "idirnáisiúnta": {
+    "name_ga": "Idirnáisiúnta",
+    "name_en": "International",
+    "groups": [
+      {
+        "name": "Nicola Sturgeon",
+        "note": "Former First Minister of Scotland: \"My political instinct would be in favour of a united Ireland\" (2025).",
+        "url": "https://www.bbc.com/news/articles/c24z8pvym4vo"
+      },
+      {
+        "name": "Tony Blair",
+        "note": "Former British PM: \"Brexit brings united Ireland closer\" — views on Irish unity as an assessment of the facts post-referendum (2017).",
+        "url": "https://www.thetimes.com/world/ireland-world/article/blair-brexit-brings-united-ireland-closer-kbtcwcd0k"
+      },
+      {
+        "name": "Richard Neal",
+        "note": "US Congressman, co-chair of the Friends of Ireland Caucus: \"The conversation of a border poll is entirely appropriate\" (2024).",
+        "url": "https://www.irishnews.com/news/ireland/talks-on-united-ireland-should-get-underway-influential-us-politicians-say-following-irish-leaders-washington-visit-QPFBCXWYDVDCBE6AXWFZWKOFTI/"
+      },
+      {
+        "name": "Brendan Boyle",
+        "note": "US Congressman: Dublin, Belfast, Washington, London and Brussels should \"work through all the possible scenarios\" for unity (2024).",
+        "url": "https://www.irishnews.com/news/ireland/talks-on-united-ireland-should-get-underway-influential-us-politicians-say-following-irish-leaders-washington-visit-QPFBCXWYDVDCBE6AXWFZWKOFTI/"
+      },
+      {
+        "name": "Nancy Pelosi",
+        "note": "Former US House Speaker: has called a united Ireland an \"exciting idea\" while deferring the decision to the people of Ireland.",
+        "url": "https://pelosi.house.gov/news/press-releases/pelosi-statement-reaffirming-support-of-the-northern-ireland-protocol"
+      },
+      {
+        "name": "Irish Border Poll campaign",
+        "note": "Britain-based non-party campaign advocating a border poll and Irish unity; organises Westminster parliamentary debates on the path to a poll.",
+        "url": "https://irishborderpoll.com/about/"
+      },
+      {
+        "name": "Ancient Order of Hibernians (AOH)",
+        "note": "America's largest Irish-Catholic group; launched a \"United Ireland resolutions\" strategy with local US governments and advocates a unity referendum.",
+        "url": "https://aoh.com/how-to-support-a-united-ireland/"
+      },
+      {
+        "name": "Irish Northern Aid (NORAID)",
+        "note": "States its mission \"to aid in the creation of a United Ireland in the spirit of the 1916 Easter Proclamation\" (founded 1969).",
+        "url": "https://en.wikipedia.org/wiki/NORAID"
+      },
+      {
+        "name": "Clan na Gael",
+        "note": "Oldest Irish-American republican organisation; objective of a secure, independent and united Ireland (founded 1867).",
+        "url": "https://en.wikipedia.org/wiki/Clan_na_Gael"
+      },
+      {
+        "name": "Friends of Sinn Féin (USA)",
+        "note": "\"Working Toward a Unified Ireland\"; ran full-page Washington Post / NY Times ads calling on the British government to \"set the date for the Unity Referendum\".",
+        "url": "https://friendsofsinnfein.com/"
+      },
+      {
+        "name": "Americans for a United Ireland",
+        "note": "Diaspora group supporting the Yes for Unity campaign and \"realizing the 32 County Republic\".",
+        "url": "https://united-ireland.org/"
       }
     ]
   }
